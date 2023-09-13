@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210742836037",
+    "project_id": "panchkaram-29953",
+    "storage_bucket": "panchkaram-29953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210742836037:android:81b2c6f87d28d0f3a65c2c",
+        "android_client_info": {
+          "package_name": "com.example.panchkaram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMYkgJ4_ARVOMIUv0-pYWU6ZdzYO1biTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
